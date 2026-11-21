@@ -1,0 +1,11 @@
+{
+  "title": "Financial Performance & Variance",
+  "domain": "finance",
+  "primary_dimension": "business_unit",
+  "kpis": [
+    "Revenue",
+    "EBITDA Margin",
+    "Budget Variance",
+    "Operating Cash Flow"
+  ]
+}
